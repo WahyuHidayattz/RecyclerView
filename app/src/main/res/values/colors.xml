@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- AppCompat Colors-->
+	<color name="colorPrimary">#009688</color>
+	<color name="colorPrimaryDark">#00796B</color>
+	<color name="colorAccent">#009688</color>
+	<color name="colorControlNormal">#ffffff</color>
+	
+	<!-- Background Colors -->
+	<color name="mainBackground">#ffffff</color>
+	<color name="cardBackground">#ffffff</color>
+	
+	<!-- Text Colors -->
+	<color name="textPrimary">#000000</color>
+	<color name="textSecondary">#666666</color>
+</resources>
