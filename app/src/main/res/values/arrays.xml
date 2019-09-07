@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<array name="item_title">
+		<item>Naruto</item>
+		<item>Shingeki no Kyoujin</item>
+		<item>Tokyo Ghoul</item>
+		<item>Nanatsu no Taizai</item>
+		<item>Aldnoah Zero</item>
+		<item>Death Note</item>
+	</array>
+	<array name="item_subtitle">
+		<item>Action, Comedy</item>
+		<item>Action, Military, Mistery</item>
+		<item>Action, Gore, Sci-fi</item>
+		<item>Action, Fantasy</item>
+		<item>Action, Fight, Robot</item>
+		<item>Action, Horor, Mistery</item>
+	</array>
+</resources>
